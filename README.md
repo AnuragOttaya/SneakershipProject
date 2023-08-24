@@ -1,8 +1,9 @@
-# Sneakership
-
 Hello There. I am Anurag a passionate programmer.
 
-# Details about the Sneakership app
+## Sneak Peak of the Sneakership app
+![git image](https://github.com/AnuragOttaya/SneakershipProject/assets/18247399/433fa94e-902b-409c-8bfa-7a427b8a14b3)
+
+# Details about the app
 
 ### Screens in the app :
 
@@ -51,7 +52,13 @@ In Clean Architecture, the code is divided into 3 separate layers.
 ## Database used : Hardcoded Values
   As Its a test dummy app, i havent implemented any real database and API calls.
   All the sneaker data are generated locally with some random values and provided.
-  The Repository return hardcoded data.
+  The Repository return hardcoded data
+
+
+## Thank you
+
+
+
 
 
 
