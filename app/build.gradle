@@ -1,0 +1,17 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
+    id("com.google.dagger.hilt.android")
+}
+apply from: '../baseAndroid.gradle'
+
+android {
+    namespace 'com.otta.sneakership'
+}
+
+dependencies {
+    implementation project(':sneakersList')
+    implementation project(':cart')
+    implementation project(':data')
+}
