@@ -1,5 +1,9 @@
 # Sneakership
 
+Hello There. I am Anurag a passionate programmer.
+
+# Details about the Sneakership app
+
 ### Screens in the app :
 
    - **Sneakers List**
@@ -33,15 +37,15 @@ In Clean Architecture, the code is divided into 3 separate layers.
      >(Repository)
 
 ## Technologies used
-   - Dagger Hilt
+   - **Dagger Hilt**
      > For Dependancy Injection
-   - Navigation Framework
+   - **Navigation Framework**
      > For Fragment Navigation
-   - Kotlin Flows
+   - **Kotlin Flows**
      > For observables
-   - Coroutines
+   - **Coroutines**
      > For consuming obsevables
-   - Data Bining
+   - **Data Bining**
      >For making the code more clean.
 
 ## Database used : Hardcoded Values
